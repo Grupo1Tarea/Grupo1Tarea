@@ -2,8 +2,8 @@
 
 <p>
 Colaboradores:
-**Juan Andres fuentealba Carrasco
-Ivan Eduardo Soto Duarte
+**Juan Andres fuentealba Carrasco,
+Ivan Eduardo Soto Duarte,
 Humberto Nibaldo Adasme Alcota**
 </p>
 
